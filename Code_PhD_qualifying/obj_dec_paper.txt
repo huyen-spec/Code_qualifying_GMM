@@ -1,0 +1,15 @@
+https://www.connectedpapers.com/main/df16dcaa11d90695e498ffdd3ea65a08f6b3b56b/Few%20Shot-Object-Detection%3A-A-Survey/prior
+
+Few-Shot Object Detection With Attention-RPN and Multi-Relation Detector
+LSTD: A Low-Shot Transfer Detector for Object Detection
+Microsoft COCO: Common Objects in Context
+SSD: Single Shot MultiBox Detector
+
+
+https://paperswithcode.com/sota/few-shot-object-detection-on-ms-coco-30-shot
+
+
+take:
+1,Meta-DETR: Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation
+2,DeFRCN: DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection
+4,FSCE: FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding
